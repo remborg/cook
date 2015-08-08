@@ -1,0 +1,893 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"titel",
+				"titleText"
+			],
+			[
+				"gameContainerH",
+				"gameContainerWidth"
+			],
+			[
+				"main",
+				"mainText"
+			],
+			[
+				"center",
+				"centerX	(game.js)"
+			],
+			[
+				"ans",
+				"answerCopy"
+			],
+			[
+				"question",
+				"defaultQuestion"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"spri",
+				"spriteName"
+			],
+			[
+				"sprite",
+				"spriteName	(products.json)"
+			],
+			[
+				"prod",
+				"productData"
+			],
+			[
+				"prdu",
+				"products	(game.js)"
+			],
+			[
+				"product",
+				"productSprite	(questionBox.js)"
+			],
+			[
+				"de",
+				"defaultHeight	(swipeZone.js)"
+			],
+			[
+				"Q",
+				"questionBox"
+			],
+			[
+				"defa",
+				"defaultY"
+			],
+			[
+				"cout",
+				"countLiving"
+			],
+			[
+				"produc",
+				"product"
+			],
+			[
+				"head",
+				"gameHeader"
+			],
+			[
+				"def",
+				"defaultX"
+			],
+			[
+				"cente",
+				"centerX"
+			],
+			[
+				"cen",
+				"center	(gameHeader.js)"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pdo",
+				"productPadding"
+			],
+			[
+				"kill",
+				"killBricksDebug"
+			],
+			[
+				"brick",
+				"brickGroup"
+			],
+			[
+				"ach",
+				"anchor"
+			],
+			[
+				"bric",
+				"brickGroup"
+			],
+			[
+				"bri",
+				"brickGroup"
+			],
+			[
+				"new",
+				"newWitdh"
+			],
+			[
+				"rig",
+				"rightEdge"
+			],
+			[
+				"time",
+				"timerEvent"
+			],
+			[
+				"defaul",
+				"defaultHeight"
+			],
+			[
+				"butto",
+				"buttonVars"
+			],
+			[
+				"visi",
+				"visibility"
+			],
+			[
+				"button",
+				"buttonText"
+			],
+			[
+				"butt",
+				"buttonVars"
+			],
+			[
+				"hei",
+				"height	(button.js)"
+			],
+			[
+				"defal",
+				"defaultHeight"
+			],
+			[
+				"default",
+				"defaultX"
+			],
+			[
+				"height",
+				"height"
+			],
+			[
+				"gameH",
+				"gameHeight"
+			],
+			[
+				"gameW",
+				"gameWidth"
+			],
+			[
+				"sc",
+				"scale"
+			],
+			[
+				"rotat",
+				"rotation"
+			],
+			[
+				"sca",
+				"setScale	(ballHitPlayerEmitter.js)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"soun",
+				"soundManager"
+			],
+			[
+				"hide",
+				"hideIntroKeys"
+			],
+			[
+				"playerN",
+				"playerNumber"
+			],
+			[
+				"plae",
+				"player"
+			],
+			[
+				"play",
+				"player"
+			],
+			[
+				"upda",
+				"updateScoreText"
+			],
+			[
+				"player1",
+				"player1Score"
+			],
+			[
+				"playe",
+				"player2"
+			],
+			[
+				"ballL",
+				"ballLeaveWorldLeft"
+			],
+			[
+				"balll",
+				"ballLeaveTopWorld"
+			],
+			[
+				"velo",
+				"velocity"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"ve",
+				"velocity"
+			],
+			[
+				"relea",
+				"releaseCalls"
+			],
+			[
+				"rel",
+				"releaseCalls"
+			],
+			[
+				"hit",
+				"ballHitPlayer"
+			],
+			[
+				"pos",
+				"posY"
+			],
+			[
+				"emitt",
+				"emitterY	(game.js)"
+			],
+			[
+				"emi",
+				"emitterX	(game.js)"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"Ba",
+				"BallHitPlayer"
+			],
+			[
+				"li",
+				"lifespan"
+			],
+			[
+				"ballHi",
+				"ballHitPlayerEmitter"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"player",
+				"playerCollisionGroup"
+			],
+			[
+				"adju",
+				"adjust-color	adjust-color()"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"mock",
+				"mockEmployee"
+			],
+			[
+				"htt",
+				"httpBackend"
+			],
+			[
+				"nouve",
+				"nouveauUtilisateur"
+			],
+			[
+				"string",
+				"stringOut"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "git",
+		"selected_items":
+		[
+			[
+				"git",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"phaser",
+				"Snippet: Phaser.utils.extend"
+			],
+			[
+				"pains",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"delete",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"trailin",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"ins pa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"beautif",
+				"Javascript Beautify"
+			],
+			[
+				"insl",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"pacak",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 230.0,
+		"history":
+		[
+			"clear",
+			"cls",
+			"test",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Projects/Perso/cooking"
+	],
+	"file_history":
+	[
+		"/D/Projects/Perso/cooking/package.json",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/products.json",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/states/ready.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/sprites/counter.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/states/boot.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/main.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/lg-lounge-breakout.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/sprites/wireButton.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/sprites/ball.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/sprites/gameHeader.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/states/game.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/sprites/logo.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/sprites/button.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/styles/main.scss",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/index.html",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/sprites/questionBox.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/sprites/swipeZone.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/sprites/paddle.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/states/welcome.js",
+		"/D/Projects/Tests/Phaser/src/js/ball.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/sprites/titleBlock.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/sprites/saveBlock.js",
+		"/D/Projects/Tests/Phaser/src/scss/style.scss",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/graphics/button.js",
+		"/D/Projects/Tests/Phaser/src/js/game.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/json/lg-lounge-breakout@2x.json",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/states/preload.js",
+		"/D/Projects/BD/LG/LGLounge/boot.js",
+		"/D/Projects/BD/LG/lglounge.sublime-project",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/bower_components/phaser/build/phaser.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/nwutils.js",
+		"/D/Projects/Tests/Phaser tilemap/game.js",
+		"/D/Projects/Tests/Phaser tilemap/main.js",
+		"/D/Projects/Tests/Phaser tilemap/boot.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/gulp/build.js",
+		"/D/Projects/BD/LG/LGLounge/preload.js",
+		"/D/Projects/BD/LG/LGLounge/index.html",
+		"/C/Users/Remi/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Remi/AppData/Local/Temp/7zO6BAE.tmp/webpack.js",
+		"/D/Projects/Tests/Phaser tilemap/index.html",
+		"/D/Projects/Tests/Phaser tilemap/assets/map/map1.json",
+		"/D/Projects/Tests/Phaser tilemap/preload.js",
+		"/D/Projects/Tests/Phaser/src/index.html",
+		"/D/Projects/Tests/Phaser/build/index.html",
+		"/D/Projects/Tests/Phaser/src/js/player.js",
+		"/D/Projects/Tests/Phaser/src/js/key.js",
+		"/D/Projects/Tests/Phaser/src/js/arrow.js",
+		"/D/Projects/Tests/Phaser/src/js/ballHitPlayerEmitter.js",
+		"/D/Projects/Tests/Phaser/gulpfile.js",
+		"/D/Projects/Tests/Phaser/build/js/bower_components/phaser/build/phaser.min.js",
+		"/D/Projects/Potato/flickr-potato/src/GruntFile.js",
+		"/D/Projects/Tests/Phaser/src/js/ballHitEmitter.js",
+		"/D/Projects/Tests/Phaser/src/js/collision-player-ball.js",
+		"/D/Projects/eMoov/notes",
+		"/D/Projects/eMoov/emoov/core/local_settings.py",
+		"/D/Projects/eMoov/emoov/resources/static/site/js/modules/controllers/landing-page-controllers.js",
+		"/D/Projects/eMoov/emoov/resources/html/mainsite/modules/section-module-promotion.html",
+		"/D/Projects/eMoov/emoov/resources/html/mainsite/modules/section-module-reviews-and-questions.html",
+		"/D/Projects/eMoov/emoov/resources/static/site/js/modules/application.js",
+		"/D/Projects/eMoov/Vagrantfile",
+		"/D/Projects/eMoov/.ssh/id_rsa.pub",
+		"/D/Projects/eMoov/emoov/resources/html/mainsite/modules/order_summary_module.html",
+		"/D/Projects/eMoov/emoov/resources/static/site/js/modules/controllers/sales-controllers.js",
+		"/D/Projects/eMoov/emoov/resources/static/site/js/modules/services/product-service.js",
+		"/D/Projects/eMoov/emoov/resources/html/mainsite/home_page.html",
+		"/C/Users/Remi/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Remi/Desktop/angularTest/index.html",
+		"/D/Projects/eMoov/emoov/resources/html/mainsite/modules/section-module-packages.html",
+		"/D/Projects/Tests/Knockout/index.html",
+		"/D/Projects/Tests/Phaser/package.json",
+		"/C/Users/Remi/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Projects/Tests/Phaser/.gitignore",
+		"/C/Program Files (x86)/Git/.ssh/id_rsa.pub",
+		"/C/Program Files (x86)/Git/.ssh/id_rsa",
+		"/D/Projects/Tests/Phaser/build/js/vendor/bower_components/phaser/Gruntfile.js",
+		"/D/Projects/Tests/Phaser/build/css/style.css",
+		"/D/Projects/Tests/Phaser/gulp.js",
+		"/D/ftp/index.php",
+		"/D/Projects/eMoov/emoov/runtime.txt",
+		"/D/Projects/Potato/flickr-potato/src/node_modules/imagemin/node_modules/imagemin-svgo/node_modules/svgo/plugins/removeUnknownsAndDefaults.js",
+		"/D/Projects/eMoov/emoov/.sass-cache/1aef93bc7323db8e712d75a52dd5b3b706fbbfd3/_responsive-utilities.scssc",
+		"/D/Projects/eMoov/emoov/Rakefile",
+		"/D/Projects/eMoov/emoov/lib/python2.7/site-packages/coverage/html.py",
+		"/D/Projects/Potato/flickr-potato/src/node_modules/grunt/node_modules/hooker/test/hooker_test.js",
+		"/D/Projects/Potato/flickr-potato/src/node_modules/bower/HOOKS.md",
+		"/D/Projects/Potato/flickr-potato/src/node_modules/bower/templates/helpers/indent.js",
+		"/D/Projects/Potato/flickr-potato/debug/index.html",
+		"/D/Projects/eMoov/hoth/cart/templates/emails/invoice_notification.html",
+		"/D/Projects/eMoov/emoov/core/local_settings_template.py",
+		"/D/Projects/eMoov/emoov/lib/python2.7/site-packages/grappelli/templates/registration/logged_out.html",
+		"/D/Projects/eMoov/emoov/lib/python2.7/site-packages/zinnia/spam_checker/backends/long_enough.py",
+		"/D/Projects/eMoov/emoov/bin/lss3",
+		"/D/Projects/eMoov/.ssh/id_rsa",
+		"/D/Projects/eMoov/.ssh/authorized_keys",
+		"/D/Projects/eMoov/.ssh/config",
+		"/D/Projects/eMoov/.ssh.bak/authorized_keys",
+		"/D/Projects/eMoov/.ssh.bak/id_rsa.pub",
+		"/D/Projects/eMoov/emoov/resources/html/mainsite/about/about_questions.html",
+		"/D/Projects/eMoov/emoov/resources/static/js/scripts.js",
+		"/D/Projects/eMoov/emoov/resources/static/site/js/modules/controllers/property-search-controllers.js",
+		"/D/Projects/eMoov/emoov/resources/static/site/js/modules/directives/payment-directives.js",
+		"/D/Projects/eMoov/emoov/resources/static/site/js/modules/controllers/admin-users-controllers.js",
+		"/D/Projects/eMoov/emoov/resources/static/scss/layout/_header.scss",
+		"/D/Projects/eMoov/emoov/resources/static/scss/components/_buttons.scss",
+		"/D/Projects/eMoov/emoov/resources/html/mainsite/modules/section-module-banner-and-portal.html",
+		"/C/Users/Remi/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Projects/eMoov/emoov/resources/static/djcelery/style.css",
+		"/D/Projects/eMoov/emoov/fixtures/expert_agent.csv",
+		"/D/Projects/Potato/flickr-potato/debug/js/app.js",
+		"/D/Projects/Potato/flickr-potato/src/tests/spec/feedFactorySpec.js",
+		"/D/Projects/eMoov/hoth/README.md",
+		"/D/Projects/eMoov/emoov/resources/static/scss/mainsite-style-screen.scss",
+		"/D/Projects/eMoov/.vagrant/machines/default/virtualbox/synced_folders",
+		"/C/Windows/Temp/local_settings.py",
+		"/D/Projects/eMoov/emoov/resources/static/scss/base/_variables.scss",
+		"/D/Projects/eMoov/emoov/README.md",
+		"/D/Projects/eMoov/emoov/core/settings.py",
+		"/D/Projects/eMoov/emoov/fixtures/location.json",
+		"/D/Projects/Potato/flickr-potato/src/node_modules/bower/node_modules/mout/array/lastIndexOf.js",
+		"/D/Projects/eMoov/hoth/hoth/local_settings.py",
+		"/D/Projects/Potato/flickr-potato/src/tests/spec/helloWorldSpec.js",
+		"/D/Projects/Potato/flickr-potato/src/_SpecRunner.html",
+		"/D/Projects/Potato/flickr-potato/src/debug/js/app.js",
+		"/D/Projects/Potato/flickr-potato/debug/js/debug/js/app.js",
+		"/D/Projects/Potato/flickr-potato/src/js/common/Config.js",
+		"/D/Projects/Potato/flickr-potato/src/js/helloworld.js",
+		"/D/Projects/Potato/flickr-potato/src/package.json",
+		"/D/Projects/Potato/flickr-potato/src/tests/src/test.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<project>, *.*",
+			"D:\\Projects\\eMoov\\",
+			"D:\\Projects\\eMoov\\emoov\\",
+			"D:\\Projects\\eMoov\\emoov\\resources\\",
+			"D:\\Projects\\eMoov\\emoov\\resources\\*.js",
+			"D:\\Projects\\eMoov\\emoov\\resources\\",
+			"D:\\Projects\\eMoov\\emoov\\resources\\static",
+			"D:\\Projects\\rightmove\\design-prototype\\src",
+			"D:\\Projects\\rightmove\\design-prototype\\src\\main\\resources",
+			"D:\\Projects\\rightmove\\design-prototype",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SubTitleCopy",
+			"subTitleCopy",
+			"SubTitleCopy",
+			"subTitleCopy",
+			"CorrectAnswerBlock",
+			"TitleBlock",
+			"this.gameScale",
+			"titleText",
+			"WellDone",
+			"Game",
+			"Ready",
+			"answerButtons",
+			"* 8",
+			"* 6",
+			"SHOW_ALL",
+			"questionTextPadding",
+			".5",
+			" this.gameScale * 2",
+			"SHOW_ALL",
+			"showQuestion",
+			"graphics",
+			"Graphics",
+			"graphics",
+			"buttonText",
+			"unlockText",
+			"HelveticaNeue",
+			"bonusText",
+			"HelveticaBold",
+			"\n\n@font-face {\n    font-family: \"HelveticaBold\";\n    src: url(\"../fonts/HelveticaBold.eot\");\n    src: url(\"../fonts/HelveticaBold.eot?#iefix\")format(\"embedded-opentype\"),\n    url(\"../fonts/HelveticaBold.woff\") format(\"woff\"),\n    url(\"../fonts/HelveticaBold.ttf\") format(\"truetype\");\n    font-style: normal;\n    font-weight: normal;\n}",
+			"productText",
+			"product",
+			"productData",
+			"spriteName",
+			"productName",
+			"productSprite",
+			"buttonAnchorX",
+			"Button",
+			"defaultProductName",
+			"defaultProductCopy",
+			"productText",
+			"\n    var productText = new Phaser.Text(this.game, this.game.world.centerX + product.width / 2 + productPadding / 2, this.defaultHeight + productPadding, this.defaultProductCopy);\n    productText.anchor.setTo(0.5, 0);\n    productText.fontSize  = 16 * this.gameScale;\n    productText.font = 'HelveticaBold';\n    productText.fill = '#FFFFFF';\n    //updating product position according to the text width\n    product.x = productText.x - productText.width / 2 - product.width / 2 - productPadding;\n",
+			"this.graphics",
+			"createTopHeader",
+			"background",
+			"headerBox",
+			"radius",
+			" - radius",
+			"- radius",
+			"defaultY",
+			"radius",
+			"headerBox",
+			"defaultHeight",
+			"this.graphics",
+			" this.graphics",
+			"this.graphics",
+			"Logo",
+			"this",
+			"gamehe",
+			"defaultX",
+			" .3",
+			");",
+			"o(",
+			"defaultWidth",
+			"SwipeZoneText",
+			"Button",
+			"button",
+			"Button",
+			"heartSprites",
+			"LGLoungeBreakout",
+			"product",
+			"levelText",
+			"40",
+			"levelText",
+			"save",
+			"SAVE",
+			"save",
+			"Scale.",
+			"Logo(",
+			"Logo",
+			"defaultUnderlined",
+			");\n",
+			"game.world.width / 2",
+			"productPadding * this.gameScale",
+			"GameHeaderText",
+			"Button",
+			"button",
+			"Button",
+			"padding",
+			"scale",
+			"Logo",
+			"logo",
+			"Logo",
+			"this",
+			"sprite",
+			");\n",
+			"pointer1",
+			"+ ",
+			"bounce",
+			"velocity",
+			"_ball",
+			"ball",
+			"y",
+			"this",
+			"collide",
+			"this",
+			"this.",
+			"this",
+			"game",
+			"sprite",
+			"\n    if(ballHitWorldTop) {\n        this.body.velocity.y *= -1;\n    }",
+			"game",
+			"leftEdge",
+			";\n",
+			"this.",
+			"paddle.",
+			"Paddle",
+			"paddle",
+			"1,",
+			"var",
+			"leftEdge",
+			"Logo",
+			" 1.5",
+			"1.5",
+			"counterText",
+			"titleText",
+			"titleCopy",
+			"TitleCopy",
+			"titleCopy"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"},\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"main.css",
+				"LG-Lounge-Breakout\\app\\styles\\main.scss"
+			],
+			[
+				"gruntf",
+				"flickr-potato\\src\\GruntFile.js"
+			],
+			[
+				"gul",
+				"Phaser\\gulpfile.js"
+			],
+			[
+				"losett",
+				"eMoov\\emoov\\core\\local_settings.py"
+			],
+			[
+				"locals",
+				"emoov\\core\\local_settings_template.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Projects\\Tests\\Phaser tilemap\\sublimeProject.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
