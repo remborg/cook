@@ -1,6 +1,7 @@
 'use strict';
 
 var gulp = require('gulp');
+var CONSTANTS = require('./constants');
 
 var browserSync = require('browser-sync');
 var httpProxy = require('http-proxy');
@@ -41,12 +42,12 @@ function browserSyncInit(baseDir, files, browser) {
 }
 
 gulp.task('serve', ['watch'], function() {
-    browserSyncInit(['app', '.tmp'], [
-        'app/*.html',
-        'app/styles/**/*.css',
+    browserSyncInit([CONSTANTS.SRC_DIR, '.tmp'], [
+        CONSTANTS.SRC_DIR + '*.html',
+        CONSTANTS.SRC_DIR + 'styles/**/*.css',
         '.tmp/styles/**/*.css',
-        'app/scripts/**/*.js',
-        'app/images/**/*'
+        CONSTANTS.SRC_DIR + 'scripts/**/*.js',
+        CONSTANTS.SRC_DIR + 'images/**/*'
     ]);
 });
 

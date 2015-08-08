@@ -4,7 +4,7 @@ var gulp = require('gulp');
 var CONSTANTS = require('./constants');
 
 var $ = require('gulp-load-plugins')({
-    pattern: ['gulp-*', 'main-bower-files', 'del']
+    pattern: ['gulp-*', 'del']
 });
 
 function handleError(err) {
@@ -67,7 +67,7 @@ gulp.task('images', function() {
 });
 
 gulp.task('fonts', function() {
-    return gulp.src( CONSTANTS.FONT_DIR + '/**/*', $.mainBowerFiles())
+    return gulp.src( CONSTANTS.FONT_DIR + '/**/*')
         .pipe($.filter('**/*.{eot,svg,ttf,woff,woff2}'))
         .pipe($.flatten())
         .pipe(gulp.dest( CONSTANTS.BUILD_DIR + '/fonts'))
