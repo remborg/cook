@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"Buil",
+				"BUILD_DIR	(constants.js)"
+			],
+			[
 				"titel",
 				"titleText"
 			],
@@ -319,6 +323,90 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "gulp/inject.js",
+			"settings":
+			{
+				"buffer_size": 1232,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/index.js",
+			"settings":
+			{
+				"buffer_size": 1,
+				"line_ending": "Windows",
+				"name": "index.js"
+			}
+		},
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 595,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gulp/build.js",
+			"settings":
+			{
+				"buffer_size": 2249,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/styles/main.scss",
+			"settings":
+			{
+				"buffer_size": 37,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Remi/Desktop/index.html",
+			"settings":
+			{
+				"buffer_size": 216,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".tmp/styles/main.css",
+			"settings":
+			{
+				"buffer_size": 35,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Projects/Tests/NodeJs/this.js",
+			"settings":
+			{
+				"buffer_size": 419,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nPackage Control:\n---------------\n\n  Version 3.1 Release Notes\n  \n  Package Control continues its focus on polish and fixing edge-case bugs. Some\n  of the changes in this version include:\n  \n   - quick panel for Install Package now stays open on Windows with recent\n     versions of ST3, even when focus is lost\n   - new \"downloader_precedence\" setting to allow users to use specific HTTP\n     backend due to network proxy or SSL issues\n   - added Install Local Dependency command for package developers to more\n     easily deal with dependencies during development\n   - improved handling of git/hg package upgrade errors\n   - better handling of locked .sublime-package files on Windows\n   - performance improvements for users with a large number of open windows\n  \n  For package developers, the list of available dependencies has been growing:\n  https://github.com/wbond/package_control_channel/blob/master/repository/dependencies.json\n  \n  Enjoy!\n  \n  ",
+			"settings":
+			{
+				"buffer_size": 1004,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"scratch": true
+			}
+		},
+		{
+			"file": "gulp/constants.js",
+			"settings":
+			{
+				"buffer_size": 298,
+				"line_ending": "Windows",
+				"name": "constants.js"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -327,10 +415,22 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "git",
+		"height": 219.0,
+		"last_filter": "git com",
 		"selected_items":
 		[
+			[
+				"git com",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"pane rig",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				"git",
 				"GitGutter: Compare Against Branch"
@@ -424,10 +524,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
 				"pa",
 				"Package Control: Install Package"
 			],
@@ -469,11 +565,49 @@
 	},
 	"expanded_folders":
 	[
-		"/D/Projects/Perso/cooking"
+		"/D/Projects/Perso/cooking",
+		"/D/Projects/Perso/cooking/.tmp",
+		"/D/Projects/Perso/cooking/.tmp/styles",
+		"/D/Projects/Perso/cooking/build",
+		"/D/Projects/Perso/cooking/gulp",
+		"/D/Projects/Perso/cooking/src",
+		"/D/Projects/Perso/cooking/src/js",
+		"/D/Projects/Perso/cooking/src/styles"
 	],
 	"file_history":
 	[
+		"/C/Users/Remi/Downloads/exec.bat",
+		"/D/Projects/Perso/cooking/src/index.html",
+		"/D/Projects/Perso/cooking/src/js/text.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/gulp/build.js",
+		"/D/Projects/Perso/cooking/gulp/watch.js",
+		"/D/Projects/Perso/cooking/build/index.html",
+		"/D/Projects/Perso/cooking/src/styles/main.scss",
+		"/D/Projects/Perso/cooking/.tmp/styles/main.css",
+		"/D/Projects/Perso/cooking/src/styles/test.css",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/gulp/watch.js",
+		"/D/Projects/Perso/cooking/src/js/test.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/gulp/inject.js",
+		"/D/Projects/Perso/cooking/main.sublime-project",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/gulp/server.js",
+		"/D/Projects/Perso/cooking/gulp/serve.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/index.html",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/gulpfile.js",
+		"/D/Projects/Perso/cooking/gulpfile.js",
+		"/C/Users/Remi/AppData/Local/Temp/7zOCFA0.tmp/index.js",
+		"/D/Projects/Perso/cooking/gulp/build.js",
+		"/D/Projects/BD/LG/LG-Lounge-Breakout/gulp/wiredep.js",
+		"/D/Projects/Perso/cooking/gulp/wiredep.js",
 		"/D/Projects/Perso/cooking/package.json",
+		"/D/Projects/Perso/cooking/.gitignore",
+		"/D/Projects/Perso/cooking/README.md",
+		"/C/Users/Remi/AppData/Local/Temp/7zOD928.tmp/jshint.js",
+		"/C/Users/Remi/AppData/Local/Temp/7zO61.tmp/constants.js",
+		"/C/Users/Remi/AppData/Local/Temp/7zOC4B6.tmp/index.js",
+		"/C/Users/Remi/AppData/Local/Temp/7zO9C7C.tmp/gulpfile.js",
+		"/C/Users/Remi/AppData/Local/Temp/7zO5A7F.tmp/gulpfile.js",
+		"/C/Users/Remi/AppData/Local/Temp/7zO4504.tmp/gulpfile.js",
+		"/D/Projects/Perso/cooking/main.sublime-workspace",
 		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/products.json",
 		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/states/ready.js",
 		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/sprites/counter.js",
@@ -487,7 +621,6 @@
 		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/sprites/logo.js",
 		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/sprites/button.js",
 		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/styles/main.scss",
-		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/index.html",
 		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/sprites/questionBox.js",
 		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/sprites/swipeZone.js",
 		"/D/Projects/BD/LG/LG-Lounge-Breakout/app/scripts/lg-lounge-breakout/sprites/paddle.js",
@@ -507,7 +640,6 @@
 		"/D/Projects/Tests/Phaser tilemap/game.js",
 		"/D/Projects/Tests/Phaser tilemap/main.js",
 		"/D/Projects/Tests/Phaser tilemap/boot.js",
-		"/D/Projects/BD/LG/LG-Lounge-Breakout/gulp/build.js",
 		"/D/Projects/BD/LG/LGLounge/preload.js",
 		"/D/Projects/BD/LG/LGLounge/index.html",
 		"/C/Users/Remi/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
@@ -571,40 +703,11 @@
 		"/D/Projects/eMoov/.ssh.bak/authorized_keys",
 		"/D/Projects/eMoov/.ssh.bak/id_rsa.pub",
 		"/D/Projects/eMoov/emoov/resources/html/mainsite/about/about_questions.html",
-		"/D/Projects/eMoov/emoov/resources/static/js/scripts.js",
-		"/D/Projects/eMoov/emoov/resources/static/site/js/modules/controllers/property-search-controllers.js",
-		"/D/Projects/eMoov/emoov/resources/static/site/js/modules/directives/payment-directives.js",
-		"/D/Projects/eMoov/emoov/resources/static/site/js/modules/controllers/admin-users-controllers.js",
-		"/D/Projects/eMoov/emoov/resources/static/scss/layout/_header.scss",
-		"/D/Projects/eMoov/emoov/resources/static/scss/components/_buttons.scss",
-		"/D/Projects/eMoov/emoov/resources/html/mainsite/modules/section-module-banner-and-portal.html",
-		"/C/Users/Remi/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-		"/D/Projects/eMoov/emoov/resources/static/djcelery/style.css",
-		"/D/Projects/eMoov/emoov/fixtures/expert_agent.csv",
-		"/D/Projects/Potato/flickr-potato/debug/js/app.js",
-		"/D/Projects/Potato/flickr-potato/src/tests/spec/feedFactorySpec.js",
-		"/D/Projects/eMoov/hoth/README.md",
-		"/D/Projects/eMoov/emoov/resources/static/scss/mainsite-style-screen.scss",
-		"/D/Projects/eMoov/.vagrant/machines/default/virtualbox/synced_folders",
-		"/C/Windows/Temp/local_settings.py",
-		"/D/Projects/eMoov/emoov/resources/static/scss/base/_variables.scss",
-		"/D/Projects/eMoov/emoov/README.md",
-		"/D/Projects/eMoov/emoov/core/settings.py",
-		"/D/Projects/eMoov/emoov/fixtures/location.json",
-		"/D/Projects/Potato/flickr-potato/src/node_modules/bower/node_modules/mout/array/lastIndexOf.js",
-		"/D/Projects/eMoov/hoth/hoth/local_settings.py",
-		"/D/Projects/Potato/flickr-potato/src/tests/spec/helloWorldSpec.js",
-		"/D/Projects/Potato/flickr-potato/src/_SpecRunner.html",
-		"/D/Projects/Potato/flickr-potato/src/debug/js/app.js",
-		"/D/Projects/Potato/flickr-potato/debug/js/debug/js/app.js",
-		"/D/Projects/Potato/flickr-potato/src/js/common/Config.js",
-		"/D/Projects/Potato/flickr-potato/src/js/helloworld.js",
-		"/D/Projects/Potato/flickr-potato/src/package.json",
-		"/D/Projects/Potato/flickr-potato/src/tests/src/test.js"
+		"/D/Projects/eMoov/emoov/resources/static/js/scripts.js"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -629,6 +732,28 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"body",
+			"jsSources",
+			"sources",
+			"build",
+			"app",
+			"app/scripts",
+			"use",
+			"usemin",
+			"wirede",
+			"app",
+			"bower",
+			"wirede",
+			"bower",
+			"styles",
+			"app/",
+			"app",
+			"app/",
+			"dest('dist",
+			"dest('dist/",
+			"audio",
+			"src('app",
+			"app",
 			"SubTitleCopy",
 			"subTitleCopy",
 			"SubTitleCopy",
@@ -734,34 +859,12 @@
 			"this",
 			"collide",
 			"this",
-			"this.",
-			"this",
-			"game",
-			"sprite",
-			"\n    if(ballHitWorldTop) {\n        this.body.velocity.y *= -1;\n    }",
-			"game",
-			"leftEdge",
-			";\n",
-			"this.",
-			"paddle.",
-			"Paddle",
-			"paddle",
-			"1,",
-			"var",
-			"leftEdge",
-			"Logo",
-			" 1.5",
-			"1.5",
-			"counterText",
-			"titleText",
-			"titleCopy",
-			"TitleCopy",
-			"titleCopy"
+			"this."
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
 			"},\n"
@@ -775,8 +878,903 @@
 	"groups":
 	[
 		{
+			"selected": 8,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "gulp/inject.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								801,
+								801
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/js/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "index.js",
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 595,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								334,
+								334
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "gulp/build.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/styles/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/Remi/Desktop/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								216,
+								216
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": ".tmp/styles/main.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 35,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/D/Projects/Tests/NodeJs/this.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1004,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_indent": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 9,
+					"file": "gulp/constants.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								283
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "constants.js",
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -797,11 +1795,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.709115281501,
 			1.0
 		],
 		"rows":
@@ -863,7 +1868,7 @@
 		[
 			[
 				"",
-				"D:\\Projects\\Tests\\Phaser tilemap\\sublimeProject.sublime-project"
+				"D:\\Projects\\Perso\\cooking\\main.sublime-project"
 			]
 		],
 		"width": 380.0
