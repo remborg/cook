@@ -2,3 +2,4 @@ node_modules
 build
 .tmp
 .sass-cache
+app/jspm

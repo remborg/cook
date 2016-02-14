@@ -1,10 +1,9 @@
 'use strict';
 
-var CONSTANTS = require('./constants');
-var gulp = require('gulp'),
-    babel = require('gulp-babel');
-
-var sourcemaps = require('gulp-sourcemaps'),
+var CONSTANTS = require('./constants'),
+    gulp = require('gulp'),
+    babel = require('gulp-babel'),
+    sourcemaps = require('gulp-sourcemaps'),
     concat = require('gulp-concat'),
     uglify = require('gulp-uglify'),
     rename = require('gulp-rename'),
@@ -12,7 +11,7 @@ var sourcemaps = require('gulp-sourcemaps'),
     notify = require("gulp-notify");
 
 gulp.task('js', function() {
-    return gulp.src(['app/**/*.js', 'app/*.js'], {
+    return gulp.src(['js/**/*.js', 'js/*.js', '!js/*.min.js'], {
             cwd: CONSTANTS.SRC_DIR
         })
         .pipe(eslint())
@@ -25,9 +24,6 @@ gulp.task('js', function() {
             return errorMessage;
         }))
         // .pipe(gulp.dest(CONSTANTS.SRC_DIR +'/'))
-        .pipe(rename({
-            suffix: '.min'
-        }))
         .pipe(sourcemaps.init())
         .pipe(concat('index.js'))
         .pipe(babel({
@@ -43,5 +39,8 @@ gulp.task('js', function() {
             console.log('notification');
             return error.message;
         }))
-        .pipe(gulp.dest(CONSTANTS.DEST_DIR + '/js'));
+        .pipe(rename({
+            suffix: '.min'
+        }))
+        .pipe(gulp.dest(CONSTANTS.SRC_DIR + '/js'));
 });

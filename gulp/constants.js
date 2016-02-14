@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-    SRC_DIR: './src',
+    SRC_DIR: './app',
     DEST_DIR: './build'
     // GULP_TASKS: './gulp',
     // CSS_DIR: SRC_DIR + '/styles',

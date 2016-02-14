@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js","app.js","partial/text.js"],"names":["test","test1"],"mappings":"AAAA,YCAA,IAAAA,MAAA,cCAAC,MAAA","file":"index.js","sourcesContent":["'use strict';\n\nvar test = 'Hello world';\n\nvar test1 = 'test';","const test = 'Hello world';\r\n","const test1 = 'test';"],"sourceRoot":"/source/"}

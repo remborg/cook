@@ -1,0 +1,9 @@
+.svg-test {
+	background: url("../images/sprite.svg") 0 0 no-repeat;
+}
+
+.svg-test-dims {
+	width: 102px;
+	height: 104px;
+}
+
