@@ -14,7 +14,11 @@ gulp.task('js', function() {
     return gulp.src(['js/**/*.js', 'js/*.js', '!js/*.min.js'], {
             cwd: CONSTANTS.SRC_DIR
         })
-        .pipe(eslint())
+        .pipe(eslint({
+            ecmaFeatures: {
+                'modules': true
+            }
+        }))
         .pipe(eslint.format())
         .pipe(eslint.failAfterError())
         .on('error', notify.onError(function(error) {

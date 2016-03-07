@@ -5,8 +5,12 @@ var CONSTANTS = require('./constants'),
     gulp = require('gulp');
 
 gulp.task('watch', ['css'], function() {
+    gulp.watch(['*.html', 'js/**/*.html'], {
+        cwd: CONSTANTS.SRC_DIR
+    }).on("change", browserSync.reload);
+
     // gulp.watch([CONSTANTS.SRC_DIR + '/css/*.scss', CONSTANTS.SRC_DIR + '/app/**/*.scss' ], ['styles']);
-    gulp.watch(['css/*.css', 'css/**/*.css', '!css/*.min.css'], {
+    gulp.watch(['css/*.pcss', 'css/**/*.pcss','css/*.css', 'css/**/*.css', '!css/*.min.css'], {
         cwd: CONSTANTS.SRC_DIR
     }, ['css']).on("change", browserSync.reload);
 

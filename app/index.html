@@ -7,15 +7,43 @@
     <title></title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/vendor/reset.css">
+    <!-- <link rel="stylesheet" href="/jspm/npm/flexboxgrid@6.3.0/dist/flexboxgrid.min.css"> -->
+    <link rel="stylesheet" href="/css/main.min.css">
 </head>
 
 <body>
+    <header class="global-header">
+        <div class="content">
+            <h1 class="title">Logo</h1>
+            <nav class="links">
+                <ul class="header-links">
+                    <li class="link">All</li>
+                    <li class="link">Favourites</li>
+                </ul>
+            </nav>
+            <label class="search-bar">
+                <input class="input" type="search" placeholder="Search for a recipe">
+            </label>
+        </div>
+    </header>
+    <div class="main" role="main">
+        <ul class="recipes-list">
+            <li class="recipe">Title</li>
+            <li class="recipe">Title</li>
+            <li class="recipe">Title</li>
+            <li class="recipe">Title</li>
+            <li class="recipe">Title</li>
+            <li class="recipe">Title</li>
+            <li class="recipe">Title</li>
+        </ul>
+    </div>
+    <div class="footer"></div>
     <script src="jspm/system.js"></script>
     <script src="jspm/config.js"></script>
     <script>
-	  	System.import('main.js');
-	</script>
+    System.import('main.js');
+    </script>
 </body>
 
 </html>

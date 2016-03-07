@@ -1,0 +1,46 @@
+.global-header {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: $primary-background-color;
+    >.content {
+        display: flex;
+        flex-wrap: wrap;
+        flex-basis: 100%;
+        @media (--lg-viewport) {
+            margin: 0 auto;
+            max-width: 75rem;
+        }
+    }
+    .title {
+        width: 250px;
+        height: 50px;
+    }
+    .links {
+        display: flex;
+        flex-grow: 1;
+    }
+    .search-bar {
+        width: 100%;
+    }
+}
+
+.search-bar {
+    display: flex;
+    >.input {
+        flex-grow: 1;
+        min-height: 35px;
+        border: none;
+        padding: 10px;
+    }
+}
+
+.header-links {
+    display: flex;
+    align-items: center;
+    >.link {
+        display: flex;
+        padding: 10px;
+        text-transform: uppercase;
+        color: #fff;
+    }
+}

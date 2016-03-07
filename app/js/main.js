@@ -2,4 +2,12 @@
 // import {AppComponent} from './app.component';
 
 // bootstrap(AppComponent);
-console.log('is this thing on?');
+/* eslint-disable */
+console.log('Hey');
+/* eslint-enable */
+
+import app from 'app';
+
+/* eslint-disable */
+app();
+/* eslint-enable */

@@ -18,13 +18,14 @@ gulp.task('css', function() {
         cssnext,
         precss
     ];
-    return gulp.src(CONSTANTS.SRC_DIR + '/css/main.css')
+    return gulp.src(CONSTANTS.SRC_DIR + '/css/main.pcss')
         .pipe(postcss(processors))
         .on('error', notify.onError(function(error) {
             return error.message;
         }))
         .pipe(rename({
-            suffix: '.min'
+            suffix: '.min',
+            extname: '.css'
         }))
         .pipe(gulp.dest(CONSTANTS.SRC_DIR + '/css'))
         .pipe(reload({

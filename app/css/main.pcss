@@ -1,0 +1,49 @@
+@import 'svgSprite.css';
+@import 'module/main.pcss';
+@import 'variables.pcss';
+@import 'global-header.pcss';
+@import '../jspm/npm/flexboxgrid@6.3.0/src/css/flexboxgrid.css';
+.header-links {
+    display: flex;
+}
+
+.recipes-list {
+    display: flex;
+    flex-wrap: wrap;
+    @media (--lg-viewport) {
+        margin: 0 auto;
+        max-width: 75rem;
+    }
+    >.recipe {
+        @extend .col-xs-12;
+        background-color: turquoise;
+        height: 250px;
+        &:nth-child(even) {
+            background-color: purple;
+        }
+        @media (--xm-viewport) {
+            -ms-flex-preferred-size: 50%;
+            -webkit-flex-basis: 50%;
+            flex-basis: 50%;
+            max-width: 50%;
+        }
+        @media (--sm-viewport) {
+            -ms-flex-preferred-size: 33.333%;
+            -webkit-flex-basis: 33.333%;
+            flex-basis: 33.333%;
+            max-width: 33.333%;
+        }
+        @media (--md-viewport) {
+            -ms-flex-preferred-size: 25%;
+            -webkit-flex-basis: 25%;
+            flex-basis: 25%;
+            max-width: 25%;
+        }
+        @media (--lg-viewport) {
+            -ms-flex-preferred-size: 20%;
+            -webkit-flex-basis: 20%;
+            flex-basis: 20%;
+            max-width: 20%;
+        }
+    }
+}

@@ -29,11 +29,11 @@ function browserSyncInit(baseDir, files, browser) {
     browserSync.instance = browserSync.init(files, {
         startPath: '/index.html',
         server: {
-            baseDir: baseDir,
-            middleware: [
-                modRewrite(['^[^\\.]*$ /index.html [L]']),
-                proxyMiddleware
-            ]
+            baseDir: baseDir
+            // middleware: [
+            //     modRewrite(['^[^\\.]*$ /index.html [L]']),
+            //     proxyMiddleware
+            // ]
         },
         browser: browser
     });
@@ -51,6 +51,6 @@ gulp.task('serve', ['watch'], function() {
     ]);
 });
 
-gulp.task('serve:dist', ['build'], function() {
-    browserSyncInit('dist');
-});
+// gulp.task('serve:dist', ['build'], function() {
+//     browserSyncInit('dist');
+// });
